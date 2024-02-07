@@ -1,5 +1,5 @@
 import cv2
-#Fatma zehra yar, Yasin önat,İlayda Kılınç,Ahmet yükseltürk
+#Ahmet yükseltürk
 #please add these things to your library: numphy, opencv-python,pillow
 print("Hello! Welcome to ÇinÇin Restaurant")
 name = input("Please write your name to create an order: ")
